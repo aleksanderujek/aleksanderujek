@@ -1,19 +1,14 @@
 ## Hello there 👋
 
-### 🌚 Who am i?
-I'm Alex. I'm a senior software engineer at ABB in Poland 🇵🇱
+I'm Alex. I'm Software Developer from Poland 🇵🇱
 
 ### 🛠️ Technologies
-My current stack is .NET + React (& typescript), but I have experience in:
+My current stack is mostly .NET + React, but I do have experience in:
 - Angular,
 - WebComponents,
 - LitElements,
 - Python,
 - Xamarin,
-
-### 🌱 I’m currently learning
-- Next.JS
-- GraphQL
 
 <!--
 **aleksanderujek/aleksanderujek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
